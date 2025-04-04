@@ -1,0 +1,1 @@
+function startPath(path) { alert('Entering: ' + path); }

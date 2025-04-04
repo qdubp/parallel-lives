@@ -1,0 +1,1 @@
+setInterval(() => { console.log('🌀 simulated event'); }, 5000);
